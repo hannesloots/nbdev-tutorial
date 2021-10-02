@@ -22,3 +22,14 @@ Card(suit=2, rank=11)
     Jack of Hearts
 
 
+
+```python
+Card(suit=2, rank=12)
+```
+
+
+
+
+    Queen of Hearts
+
+
