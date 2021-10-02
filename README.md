@@ -6,19 +6,19 @@ This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdev_tutorial`
 
 ## How to use
 
 Fill me in please! Don't forget code examples:
 
+```python
+Card(suit=2, rank=11)
 ```
-1+1
-```
 
 
 
 
-    2
+    Jack of Hearts
 
 
