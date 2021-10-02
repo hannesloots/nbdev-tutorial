@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here.
+# nbdev_tutorial
+> Trying to figure out how I can use nbdev to structure and document my code.
 
 
 This file will become your README and also the index of your documentation.
@@ -35,3 +35,19 @@ Card(suit=2, rank=12)
 
 
 "Say hello to `to` using `say_hello`"
+
+```python
+say_hello("Sylvain")
+```
+
+
+    ---------------------------------------------------------------------------
+
+    NameError                                 Traceback (most recent call last)
+
+    /tmp/ipykernel_5377/650368552.py in <module>
+    ----> 1 say_hello("Sylvain")
+    
+
+    NameError: name 'say_hello' is not defined
+
