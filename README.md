@@ -17,13 +17,8 @@ Card(suit=2, rank=11)
 ```
 
 
-    ---------------------------------------------------------------------------
 
-    NameError                                 Traceback (most recent call last)
 
-    /tmp/ipykernel_5082/463122520.py in <module>
-    ----> 1 Card(suit=2, rank=11)
-    
+    Jack of Hearts
 
-    NameError: name 'Card' is not defined
 
